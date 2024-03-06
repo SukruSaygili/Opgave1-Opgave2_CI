@@ -29,5 +29,6 @@ jobs:
         distribution: 'temurin'
 
     - name: Test with Gradle Wrapper
+      working-directory: ./CalculatorOPGAVE1
       run: ./gradlew test
 
