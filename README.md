@@ -1,2 +1,2 @@
-https://github.com/SukruSaygili/Opgave1_CI/actions/workflows/gradle.yml/badge.svg
+![example workflow](https://github.com/SukruSaygili/Opgave1_CI/actions/workflows/gradle.yml/badge.svg)
 
