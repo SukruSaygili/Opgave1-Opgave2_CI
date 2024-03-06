@@ -31,4 +31,6 @@ public class CalculatorTest {
         double som = c.delen(5,2);
         assert (som == 2.5);
     }
+
+    
 }
