@@ -8,7 +8,7 @@ public class CalculatorTest {
     public void gegevenGetal1EnGetal2_SomWordtTeruggegeven() {
         Calculator c = new Calculator();
         double som = c.optellen(5,2);
-        assert (som == 6);
+        assert (som == 7);
     }
 
     @Test
